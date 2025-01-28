@@ -1,0 +1,10 @@
+[debug] [2025-01-26T09:12:32.956Z] ----------------------------------------------------------------------
+[debug] [2025-01-26T09:12:32.969Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2025-01-26T09:12:32.971Z] CLI Version:   13.29.2
+[debug] [2025-01-26T09:12:32.972Z] Platform:      win32
+[debug] [2025-01-26T09:12:32.972Z] Node Version:  v20.17.0
+[debug] [2025-01-26T09:12:32.972Z] Time:          Sun Jan 26 2025 10:12:32 GMT+0100 (West Africa Standard Time)
+[debug] [2025-01-26T09:12:32.973Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
